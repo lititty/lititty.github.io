@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: F菌
-language: zh-cn
+language:
 timezone:
 
 # URL
@@ -25,7 +25,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: zh-cn
+i18n_dir: :lang
 skip_render:
 
 # Writing
